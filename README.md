@@ -34,7 +34,7 @@ Github Repository: https://github.com/Ipul787/02-react-hello-world
 
 ## Answer of Question no. 2
 
-1. Explanation of things
+**1. Explanation of things**
 
 TypeScript: TypeScript is a superset of JavaScript and it adds static typing to the language. This allows developers to catch errors early in development process. 
 
@@ -46,7 +46,7 @@ App Router: App Router refers to a collection of routers or module used in web d
 
 Import alias: Import alias is a feature in modern JS and TypeScript that allows developeers to define alternative names for modules or paths when importing them into a file. 
 
-2. Explanation of files
+**2. Explanation of files**
 
 node_modules: This folder contains all dependencies for the project when they are installed.
 
