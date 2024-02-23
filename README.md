@@ -83,3 +83,12 @@ tsconfig.json: This file contains configurations for TypeScript.
 The change happened without re-running npm run dev because react saves every change in real-time environment. 
 
 ## Answer of Question no. 4
+
+This is the website of React with Remix framework
+
+![Screenshot](assets/04.png)
+
+And this is the website using Gatsby framework
+
+![Screenshot](assets/03.png)
+
